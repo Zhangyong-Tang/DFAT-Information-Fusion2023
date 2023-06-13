@@ -1,6 +1,7 @@
 # DFAT
 
-**DFAT** is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art RGBT algorithms(https://github.com/Zhangyong-Tang/DFAT).
+**The official implementation of the Information Fusion paper DFAT**
+It is supported by the PRCI-Lab (https://github.com/PRCI-Lab)
 
 ## Introduction
 Based on the [pysot](https://github.com/STVIR/pysot), DFAT  mainly focus on the bias caused by the different imaging mechanism.
