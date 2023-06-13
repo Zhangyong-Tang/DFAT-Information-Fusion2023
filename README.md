@@ -1,6 +1,7 @@
 # DFAT
 
-**The official implementation of the Information Fusion paper DFAT**
+**The official implementation of the Information Fusion paper DFAT.**
+
 It is supported by the PRCI-Lab (https://github.com/PRCI-Lab)
 
 ## Introduction
