@@ -1,6 +1,6 @@
 # DFAT
 
-**The official implementation of the Information Fusion paper DFAT.**
+**The official implementation of the Information Fusion paper "Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking".**
 
 It is supported by the PRCI-Lab (https://github.com/PRCI-Lab)
 
