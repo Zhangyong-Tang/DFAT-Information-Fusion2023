@@ -1,8 +1,11 @@
+🫵Find our survey work at another [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
+
 # DFAT
 
 **The official implementation of the Information Fusion paper "Exploring Fusion Strategies for Accurate RGBT Visual Object Tracking".**
 
 It is supported by the PRCI-Lab (https://github.com/PRCI-Lab)
+
 
 ## Introduction
 Based on the [pysot](https://github.com/STVIR/pysot), DFAT  mainly focus on the bias caused by the different imaging mechanism.
